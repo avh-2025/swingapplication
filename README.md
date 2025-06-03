@@ -1,5 +1,3 @@
-# swingapplication
-simple paint panel using swing application
 🎨 Drawing Tool - Java Swing Application
 A simple and interactive drawing tool built using Java Swing. This application allows users to draw freely on a canvas with customizable brush sizes and colors. Users can also clear the screen or save their artwork as a PNG image.
 
